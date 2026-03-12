@@ -1,21 +1,21 @@
 Recherchen:
-- [ ] Datenbanken:
- - [ ] Gibt es was besseres als Gutenberg Projekt für deutschen Raum?
- - [ ] Bücher?
- - [ ] Zeitungsartikel?
+- [ ] Datenbanken (Deutschland):
+ * [ ] Gibt es was besseres als Gutenberg Projekt für deutschen Raum?
+ * [ ] Bücher?
+ * [ ] Zeitungsartikel?
 - [ ] Rechtsabteilung im Vorfeld fragen?
+
 - [ ] Variablen in der Datenbank für Tabellen:
- - [ ] AutorInnen
- - [ ] Bücher (als PDFs vorliegend)
+ * [ ] AutorInnen
+ * [ ] Bücher (als PDFs vorliegend)
 
-- [ ] Welche zentrale Fragen wollen wir im Artikel diskutieren?
+- [ ] Gegen Ende -> Validierung: ~ 100 Textteile querlesen, die ein RAG System findet
 
-- [ ] Validierung: ~ 100 Textteile querlesen, die ein RAG System findet
-
-# Ideen Fokus:
-
+# Ideen:
 
 ## mögliche Paper:
+- [ ] Welche zentrale Fragen wollen wir im Artikel diskutieren?
+
 - **Biodiversitäts-Kurven**: Artenliste mit deutschen Namen: Tiere, Pflanzen, Vögel; wie häufig wie viele unterschiedliche Tiere für welche Artengruppen über die Zeit gesehen
  * Trivialnamen für Arten
  * Vögel vs. Pilze, ... 
