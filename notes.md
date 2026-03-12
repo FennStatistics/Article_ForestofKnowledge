@@ -1,12 +1,12 @@
 Recherchen:
-- [ ] Datenbanken (Deutschland):
- * [ ] Gibt es was besseres als Gutenberg Projekt für deutschen Raum?
+- [ ] Juliane: Welche Datenbanken (Deutschland) gibt es?:
+ * [ ] Julius: Gibt es was besseres als Gutenberg Projekt für deutschen Raum?
  * [ ] Bücher?
  * [ ] Zeitungsartikel?
 -> wie viele Bücher wollen wir ziehen? Nur die wo Arten vorkommen
 -> welches Feld? Lyrik/ Gedichte, (Romane erst 18Jhd)
-- [ ] Artenliste als Selektionskriterium
-- [ ] Rechtsabteilung im Vorfeld fragen?
+- [ ] Finn: Artenliste erstellen (als Selektionskriterium)
+- [ ] Finn: Rechtsabteilung im Vorfeld fragen?
 
 - [ ] Variablen in der Datenbank für Tabellen:
  * [ ] AutorInnen
@@ -14,10 +14,11 @@ Recherchen:
 
 - [ ] Gegen Ende -> Validierung: ~ 100 Textteile querlesen, die ein RAG System findet
 
-- [ ] https://digitalhumanities.uni-freiburg.de/dh-lab/ anfragen zwecks Rechner, Ressourcen
+- [ ] Julius: https://digitalhumanities.uni-freiburg.de/dh-lab/ anfragen zwecks Rechner, Ressourcen
 
-- [ ] Juliane fragt Rebecca, ob sie jemand kennt
+- [ ] Juliane: fragt Rebecca, ob sie ein guten Hiwi kennt
 
+! durch was dividieren wir -> sonst Artefakte wie das zunehmend mehr publiziert wird; pro Quelle Häufigkeit X (Korrektur für Länge)
 
 # Ideen:
 
