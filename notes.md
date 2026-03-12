@@ -3,11 +3,14 @@ Recherchen:
  * [ ] Gibt es was besseres als Gutenberg Projekt für deutschen Raum?
  * [ ] Bücher?
  * [ ] Zeitungsartikel?
+-> wie viele Bücher wollen wir ziehen? Nur die wo Arten vorkommen
+-> welches Feld? Lyrik/ Gedichte, (Romane erst 18Jhd)
+- [ ] Artenliste als Selektionskriterium
 - [ ] Rechtsabteilung im Vorfeld fragen?
 
 - [ ] Variablen in der Datenbank für Tabellen:
  * [ ] AutorInnen
- * [ ] Bücher (als PDFs vorliegend)
+ * [ ] Bücher (als PDFs vorliegend): Genre (was bei Sammlungen?)
 
 - [ ] Gegen Ende -> Validierung: ~ 100 Textteile querlesen, die ein RAG System findet
 
